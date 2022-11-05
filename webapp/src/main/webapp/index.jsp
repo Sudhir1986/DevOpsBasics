@@ -562,6 +562,7 @@ var shareasaleSSCID=shareasaleGetParameterByName("sscid");function shareasaleSet
 
 
 <div class="page-preview">
+    <h1> Sample App </h>
     <div class="page-preview-header">
         <a class="hidden-sm hidden-xs" href="#" id="previewDesktopBtn" data-preview-size="100%"><img alt="Responsive Desktop Mode" src="//csite.nicepage.com/Images/Site/responsive-desktop.png"></a>
         <a class="hidden-sm hidden-xs" href="#" id="previewLaptopBtn" data-preview-size="1040px"><img alt="Responsive Laptop Mode" src="//csite.nicepage.com/Images/Site/responsive-laptop.png"></a>
